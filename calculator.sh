@@ -12,3 +12,8 @@ sum=$((num1 + num2))
 # Display the result
 echo "The sum of $num1 and $num2 is: $sum"
 
+# Perform Multiplication
+mul=$((num1  * num2))
+
+#Display the results
+echo "The Multiplication of $num1 and $num2 is: $mul"
