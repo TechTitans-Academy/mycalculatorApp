@@ -1,0 +1,2 @@
+# mycalculatorApp
+Simple Calculator application.
